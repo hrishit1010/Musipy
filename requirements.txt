@@ -1,0 +1,13 @@
+win10toast
+mutagen
+pygame
+pathlib
+mysql-connector-python
+pillow
+bs4
+pydub
+youtube_dl
+youtube-search-python
+pythumb
+
+
