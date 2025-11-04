@@ -33,4 +33,8 @@ The application provides a seamless music experience with support for **playlist
 ### 📋 Playlist Management  
 1. Create and manage playlists stored in the **MySQL database**.  
 2. Add or remove songs from playlists.  
-3. Maintain a **persistent queue** of your most recently played tracks.  
+3. Maintain a **persistent queue** of your most recently played tracks.
+
+###ScreenShots
+<img width="1674" height="1062" alt="image" src="https://github.com/user-attachments/assets/4bf382e7-36a0-44a8-9160-7f67c9614939" />
+
